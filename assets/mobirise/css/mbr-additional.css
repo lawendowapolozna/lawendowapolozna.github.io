@@ -973,44 +973,10 @@ a {
 .cid-uCjFbiva1a .mbr-section-title {
   color: #000000;
 }
-.cid-uCdGCncffI {
-  display: flex;
-  padding-top: 24rem;
-  padding-bottom: 12rem;
-}
-@media (min-width: 768px) {
-  .cid-uCdGCncffI {
-    align-items: flex-end;
-  }
-  .cid-uCdGCncffI .row {
-    justify-content: flex-start;
-  }
-  .cid-uCdGCncffI .content-wrap {
-    padding: 1rem 3rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-uCdGCncffI .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-uCdGCncffI {
-    -webkit-align-items: center;
-    align-items: flex-end;
-  }
-  .cid-uCdGCncffI .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-uCdGCncffI .content-wrap {
-    width: 100%;
-  }
-}
-.cid-uCdGCncffI .mbr-fallback-image.disabled {
+.cid-uCYuJq8r6e .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uCdGCncffI .mbr-fallback-image {
+.cid-uCYuJq8r6e .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1018,20 +984,48 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/podzia-lawendowa-2000x2000.jpeg");
+  background-image: url("../../../assets/images/background1.jpg");
 }
-.cid-uCdGCncffI .mbr-section-title,
-.cid-uCdGCncffI .mbr-section-subtitle {
-  text-align: left;
-  color: #ffc091;
+.cid-uCYuJq8r6e .image-wrap img {
+  width: 100%;
 }
-.cid-uCdGCncffI .mbr-text,
-.cid-uCdGCncffI .mbr-section-btn {
-  text-align: left;
+@media (min-width: 992px) {
+  .cid-uCYuJq8r6e .image-wrap img {
+    display: block;
+    margin: auto;
+  }
 }
-.cid-uCdGCncffI .mbr-section-title {
-  color: #ffd7ef;
+.cid-uCYuJq8r6e .row-links {
+  width: 100%;
+  justify-content: center;
+}
+.cid-uCYuJq8r6e .header-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-uCYuJq8r6e .header-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-uCYuJq8r6e .header-menu li p {
+  margin: 0;
+}
+.cid-uCYuJq8r6e .mbr-section-title {
+  color: #ffffff;
+}
+.cid-uCYuJq8r6e .header-menu-item {
+  color: #ffffff;
+}
+.cid-uCYuJq8r6e .mbr-text,
+.cid-uCYuJq8r6e .mbr-section-btn {
+  color: #ffffff;
   text-align: center;
+}
+.cid-uCYuJq8r6e .content-head {
+  max-width: 800px;
 }
 .cid-uCT75yxHhJ .mbr-fallback-image.disabled {
   display: none;
