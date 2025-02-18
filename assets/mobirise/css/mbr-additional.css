@@ -862,6 +862,52 @@ a {
 .cid-uCjH5FvFmp .item-wrap {
   color: #723db5;
 }
+.cid-uDaGUgSj3r {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-uDaGUgSj3r .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uDaGUgSj3r .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uDaGUgSj3r .bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-uDaGUgSj3r .bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uDaGUgSj3r .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
+}
+.cid-uDaGUgSj3r .bg-instagram:hover {
+  background: #bd005c;
+}
+.cid-uDaGUgSj3r .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 72px;
+  height: 72px;
+  line-height: 72px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-uDaGUgSj3r [class^="socicon-"]:before,
+.cid-uDaGUgSj3r [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
+}
 .cid-uCjDJh7GCM {
   padding-top: 2rem;
   padding-bottom: 7rem;
